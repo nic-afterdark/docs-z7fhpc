@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-vfwezg.salamkita.shop/sitemap.xml
